@@ -6,3 +6,8 @@ To tun a file:
 npm run intsall
 npm run dev -- file.js
 ```
+
+
+### TODO:
+
+- [ ] Add unit tests
