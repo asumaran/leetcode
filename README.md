@@ -3,7 +3,7 @@ Since I’m self-taught, I never had formal training in algorithms. But I’ve a
 To run a file:
 
 ```bash
-npm run intsall
+npm run install
 npm run dev -- file.js
 ```
 
